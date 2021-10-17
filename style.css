@@ -1,0 +1,27 @@
+body{
+background-color: deeppink;
+
+
+}
+
+
+h1{
+    color:crimson;
+    font-size: 80pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 700;
+    background-color: darkslateblue;
+}
+
+
+div{
+    background-color: darkorange;
+    padding-left: 40%;
+}
+
+ul{
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50pt;
+    }
